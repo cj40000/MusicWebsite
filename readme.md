@@ -13,6 +13,6 @@ percent of matching interests would be displayed first.
 
 * [Screen Design](Screens.md)
 
-## H2 [Project Plan](ProjectPlan.md)
+## [Project Plan](ProjectPlan.md)
 
-## H2 [Journal](Journal.md)
+## [Journal](Journal.md)
