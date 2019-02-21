@@ -19,4 +19,4 @@ As a user, I want to automatically see musicians that are near me that share tha
 As a user, I want to be able to view other user profile's to read more about them before asking them to meet.
 
 ### Future Stories
-There will be a need to implement further search options in the future to further help musicians find other musicians.
+There will be a need to implement further search options in the future to further help musicians find other musicians. A possible new idea: Each user is given a set amount of points that they can use to like their favorite groups.  i.e. A user is given 1,000 points, they can then like a 1,000 different artists by giving them all 1 point, or really like their top 10 favorite artists by giving those 100 points each. Can be divided anyway they like. Could then display polls as to which artists are most liked by the users on the site, and other ratios such as ArtistPoints to numberOfUsers that liked them, to show which artists have the most dedicated fans. 
