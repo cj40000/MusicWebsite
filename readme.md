@@ -16,9 +16,9 @@ percent of matching interests would be displayed first in your results.
 
 ## Design
 
-* [User Stories](userStories.md)
+* [User Stories](DesignDocuments/userStories.md)
 
-* [Screen Design](Screens.md)
+* [Screen Design](DesignDocuments/Screens.md)
 
 ## [Project Plan](ProjectPlan.md)
 
