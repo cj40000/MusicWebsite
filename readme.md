@@ -8,3 +8,5 @@ number of interests chosen from the user with the most interests). The users wit
 percent of matching interests would be displayed first.
 
 [Project Plan](ProjectPlan.md)
+
+[Journal](Journal.md)
