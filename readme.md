@@ -7,6 +7,12 @@ the number of shared musical interests by the number of musical interest chosen 
 number of interests chosen from the user with the most interests). The users with highest 
 percent of matching interests would be displayed first.
 
-[Project Plan](ProjectPlan.md)
+## Design
 
-[Journal](Journal.md)
+* [User Stories](userStories.md)
+
+* [Screen Design](Screens.md)
+
+## H2 [Project Plan](ProjectPlan.md)
+
+## H2 [Journal](Journal.md)
