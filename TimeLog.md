@@ -9,4 +9,7 @@
 |02-19-2019|Added information to User Stories|1 hrs|Added Stories needed for user interaction|
 |02-23-2019|Web design mockup|3 hrs|Basic designs for HomePage, LogIn, CreateAccount, Edit Profile, SearchResults|
 |02-23-2019|Updated TimeLog|.3 hrs|Edited my timelog so that it is now up to date|
+|02-24-2019|Researched domain names|1.5hrs| Researched domain names to name my music site. Also, looked into costs, purchasing, and renewing domain names.|
+|02-24-2019|Edited configurations to run locally|2hrs|Unsuccesfully tried to set up TomEE and Maven to run my site locally|
+
 
